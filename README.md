@@ -53,7 +53,7 @@ Agglomerative and Figure 5b indicates the combination of SBERT with Affinity res
     <figcaption>(b) Sorensen–Dice coefficient with Affinity.</figcaption></figure></td>
     </tr>
     <tr>
-    <td><figure><img src="figures/Figure2c-qgram-DBSCAN.png" alt="$q$-gram with DBSCAN." title="$q$-gram with DBSCAN." >
+    <td><figure><img src="figures/Figure2c-qgram-DBSCAN.png" alt="q-gram with DBSCAN." title="q-gram with DBSCAN." >
     <figcaption>(c) $q$-gram with DBSCAN.</figcaption></figure></td>
     </tr>
     </table>
@@ -88,8 +88,8 @@ Agglomerative and Figure 5b indicates the combination of SBERT with Affinity res
     <td><figure><img src="figures/Figure4b-Zstd-HDBSCAN.png" alt="Zstd with HDBSCAN." title="Zstd with HDBSCAN." >
     <figcaption>(b) Zstd with HDBSCAN.</figcaption></figure></td>
     </tr>
-<figcaption> Figure 4 - Normalized compression distance algorithms are employed for text mining.
-</figcaption>
+    </table>
+<figcaption>Figure 4 - Normalized compression distance algorithms are employed for text mining.</figcaption>
 </figure>
 
 <figure>
@@ -101,8 +101,7 @@ Agglomerative and Figure 5b indicates the combination of SBERT with Affinity res
     <figcaption>(b) SBERT with Affinity.</figcaption></figure></td>
     </tr>
     </table>
-<figcaption> Figure 5 - Machine learning algorithms are employed for text mining.
-</figcaption>
+<figcaption>Figure 5 - Machine learning algorithms are employed for text mining.</figcaption>
 </figure>
 
 ### The results of sensitivity analysis using the Mantel model
